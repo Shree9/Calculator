@@ -1,0 +1,5 @@
+com.indusgrp.training.domain
+com.indusgrp.training.exceptions
+com.indusgrp.training.svc
+com.indusgrp.training.svc.impl
+com.indusgrp.training.ui
