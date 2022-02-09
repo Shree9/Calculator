@@ -3,4 +3,10 @@
   <groupId>IndusGrp</groupId>
   <artifactId>ExceptionsPractice</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <dependency>
+  <groupId>junit</groupId>     <!-- NOT org.junit here -->
+  <artifactId>junit-dep</artifactId>
+  <version>4.8.2</version>
+  <scope>test</scope>
+</dependency>
 </project>
